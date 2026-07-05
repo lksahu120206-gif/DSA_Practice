@@ -1,22 +1,24 @@
 {
-  "totalSolved": 1,
+  "totalSolved": 2,
   "currentStreak": 1,
   "maxStreak": 1,
   "lastSyncDate": "2026-07-05",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 0,
-    "medium": 1,
+    "medium": 2,
     "hard": 0,
     "basic": 0
   },
   "syncedProblems": {
-    "GeeksForGeeks_Root_to_Leaf_Paths": true
+    "GeeksForGeeks_Root_to_Leaf_Paths": true,
+    "GeeksForGeeks_Rearrange_an_array_with_O(1)_extra_space": true
   },
   "activityHistory": {
-    "2026-07-05": 1
+    "2026-07-05": 2
   },
   "todayProblems": [
-    "Root to Leaf Paths"
+    "Root to Leaf Paths",
+    "Rearrange an array with O(1) extra space"
   ]
 }
