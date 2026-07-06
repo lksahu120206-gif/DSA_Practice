@@ -1,24 +1,25 @@
 {
-  "totalSolved": 2,
-  "currentStreak": 1,
-  "maxStreak": 1,
-  "lastSyncDate": "2026-07-05",
-  "todayCount": 2,
+  "totalSolved": 3,
+  "currentStreak": 2,
+  "maxStreak": 2,
+  "lastSyncDate": "2026-07-06",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 0,
-    "medium": 2,
+    "medium": 3,
     "hard": 0,
     "basic": 0
   },
   "syncedProblems": {
     "GeeksForGeeks_Root_to_Leaf_Paths": true,
-    "GeeksForGeeks_Rearrange_an_array_with_O(1)_extra_space": true
+    "GeeksForGeeks_Rearrange_an_array_with_O(1)_extra_space": true,
+    "LeetCode_Binary_Tree_Level_Order_Traversal": true
   },
   "activityHistory": {
-    "2026-07-05": 2
+    "2026-07-05": 2,
+    "2026-07-06": 1
   },
   "todayProblems": [
-    "Root to Leaf Paths",
-    "Rearrange an array with O(1) extra space"
+    "Binary Tree Level Order Traversal"
   ]
 }
