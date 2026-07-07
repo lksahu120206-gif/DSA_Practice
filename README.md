@@ -6,3 +6,4 @@
 | 4 | [Maximum Depth of Binary Tree](./LeetCode/Easy/Maximum%20Depth%20of%20Binary%20Tree) | [LeetCode](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | Easy | 06 Jul 2026 | 12:56 pm |
 | 5 | [Diameter of Binary Tree](./LeetCode/Easy/Diameter%20of%20Binary%20Tree) | [LeetCode](https://leetcode.com/problems/diameter-of-binary-tree/) | Easy | 06 Jul 2026 | 01:15 pm |
 | 6 | [Balanced Binary Tree](./LeetCode/Easy/Balanced%20Binary%20Tree) | [LeetCode](https://leetcode.com/problems/balanced-binary-tree/) | Easy | 06 Jul 2026 | 01:35 pm |
+| 7 | [Increment a variable](./GeeksForGeeks/Basic/Increment%20a%20variable) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/increment-a-variable/1?selectedLang=cpp) | Basic | 07 Jul 2026 | 09:43 am |
