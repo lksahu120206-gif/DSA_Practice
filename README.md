@@ -9,3 +9,4 @@
 | 7 | [Increment a variable](./GeeksForGeeks/Basic/Increment%20a%20variable) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/increment-a-variable/1?selectedLang=cpp) | Basic | 07 Jul 2026 | 09:43 am |
 | 8 | [Lowest Common Ancestor of a Binary Tree](./LeetCode/Medium/Lowest%20Common%20Ancestor%20of%20a%20Binary%20Tree) | [LeetCode](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) | Medium | 07 Jul 2026 | 11:44 am |
 | 9 | [Same Tree](./LeetCode/Easy/Same%20Tree) | [LeetCode](https://leetcode.com/problems/same-tree/) | Easy | 07 Jul 2026 | 11:51 am |
+| 10 | [Binary Tree Zigzag Level Order Traversal](./LeetCode/Medium/Binary%20Tree%20Zigzag%20Level%20Order%20Traversal) | [LeetCode](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | Medium | 07 Jul 2026 | 12:17 pm |
