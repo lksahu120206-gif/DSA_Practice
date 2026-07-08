@@ -1,12 +1,12 @@
 {
-  "totalSolved": 13,
+  "totalSolved": 14,
   "currentStreak": 4,
   "maxStreak": 4,
   "lastSyncDate": "2026-07-08",
-  "todayCount": 2,
+  "todayCount": 3,
   "difficultyCounts": {
     "easy": 4,
-    "medium": 7,
+    "medium": 8,
     "hard": 1,
     "basic": 1
   },
@@ -23,16 +23,18 @@
     "LeetCode_Binary_Tree_Zigzag_Level_Order_Traversal": true,
     "GeeksForGeeks_Tree_Boundary_Traversal": true,
     "LeetCode_Binary_Tree_Maximum_Path_Sum": true,
-    "LeetCode_Construct_Binary_Tree_from_Preorder_and_Inorder_Traversal": true
+    "LeetCode_Construct_Binary_Tree_from_Preorder_and_Inorder_Traversal": true,
+    "LeetCode_Construct_Binary_Tree_from_Inorder_and_Postorder_Traversal": true
   },
   "activityHistory": {
     "2026-07-05": 2,
     "2026-07-06": 4,
     "2026-07-07": 5,
-    "2026-07-08": 2
+    "2026-07-08": 3
   },
   "todayProblems": [
     "Binary Tree Maximum Path Sum",
-    "Construct Binary Tree from Preorder and Inorder Traversal"
+    "Construct Binary Tree from Preorder and Inorder Traversal",
+    "Construct Binary Tree from Inorder and Postorder Traversal"
   ]
 }
