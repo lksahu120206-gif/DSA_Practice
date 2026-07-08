@@ -11,3 +11,4 @@
 | 9 | [Same Tree](./LeetCode/Easy/Same%20Tree) | [LeetCode](https://leetcode.com/problems/same-tree/) | Easy | 07 Jul 2026 | 11:51 am |
 | 10 | [Binary Tree Zigzag Level Order Traversal](./LeetCode/Medium/Binary%20Tree%20Zigzag%20Level%20Order%20Traversal) | [LeetCode](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | Medium | 07 Jul 2026 | 12:17 pm |
 | 11 | [Tree Boundary Traversal](./GeeksForGeeks/Medium/Tree%20Boundary%20Traversal) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/boundary-traversal-of-binary-tree/1) | Medium | 07 Jul 2026 | 12:51 pm |
+| 12 | [Binary Tree Maximum Path Sum](./LeetCode/Hard/Binary%20Tree%20Maximum%20Path%20Sum) | [LeetCode](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | Hard | 08 Jul 2026 | 12:02 pm |
