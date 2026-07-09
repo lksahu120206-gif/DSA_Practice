@@ -15,14 +15,15 @@
 15        if (left == nullptr && right == nullptr) return true;
 16        if (left == nullptr || right == nullptr) return false;
 17
-18        return left->val == right->val &&
-19               isMirror(left->left, right->right) &&
-20               isMirror(left->right, right->left);
-21    }
-22
-23    bool isSymmetric(TreeNode* root) {
-24        if (root == nullptr) return true;
-25
-26        return isMirror(root->left, root->right);
-27    }
-28};
+18        if (left->val != right->val) return false;
+19
+20        return isMirror(left->left, right->right) &&
+21               isMirror(left->right, right->left);
+22    }
+23
+24    bool isSymmetric(TreeNode* root) {
+25        if (root == nullptr) return true;
+26
+27        return isMirror(root->left, root->right);
+28    }
+29};
