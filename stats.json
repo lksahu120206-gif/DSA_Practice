@@ -1,12 +1,12 @@
 {
-  "totalSolved": 16,
+  "totalSolved": 17,
   "currentStreak": 5,
   "maxStreak": 5,
   "lastSyncDate": "2026-07-09",
-  "todayCount": 2,
+  "todayCount": 3,
   "difficultyCounts": {
     "easy": 5,
-    "medium": 9,
+    "medium": 10,
     "hard": 1,
     "basic": 1
   },
@@ -26,17 +26,19 @@
     "LeetCode_Construct_Binary_Tree_from_Preorder_and_Inorder_Traversal": true,
     "LeetCode_Construct_Binary_Tree_from_Inorder_and_Postorder_Traversal": true,
     "LeetCode_Symmetric_Tree": true,
-    "GeeksForGeeks_Children_Sum_in_a_Binary_Tree": true
+    "GeeksForGeeks_Children_Sum_in_a_Binary_Tree": true,
+    "LeetCode_Flatten_Binary_Tree_to_Linked_List": true
   },
   "activityHistory": {
     "2026-07-05": 2,
     "2026-07-06": 4,
     "2026-07-07": 5,
     "2026-07-08": 3,
-    "2026-07-09": 2
+    "2026-07-09": 3
   },
   "todayProblems": [
     "Symmetric Tree",
-    "Children Sum in a Binary Tree"
+    "Children Sum in a Binary Tree",
+    "Flatten Binary Tree to Linked List"
   ]
 }

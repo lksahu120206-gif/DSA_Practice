@@ -16,3 +16,4 @@
 | 14 | [Construct Binary Tree from Inorder and Postorder Traversal](./LeetCode/Medium/Construct%20Binary%20Tree%20from%20Inorder%20and%20Postorder%20Traversal) | [LeetCode](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium | 08 Jul 2026 | 12:07 pm |
 | 15 | [Symmetric Tree](./LeetCode/Easy/Symmetric%20Tree) | [LeetCode](https://leetcode.com/problems/symmetric-tree/) | Easy | 09 Jul 2026 | 10:06 am |
 | 16 | [Children Sum in a Binary Tree](./GeeksForGeeks/Medium/Children%20Sum%20in%20a%20Binary%20Tree) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/children-sum-parent/1) | Medium | 09 Jul 2026 | 10:07 am |
+| 17 | [Flatten Binary Tree to Linked List](./LeetCode/Medium/Flatten%20Binary%20Tree%20to%20Linked%20List) | [LeetCode](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) | Medium | 09 Jul 2026 | 10:07 am |
