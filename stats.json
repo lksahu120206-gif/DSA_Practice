@@ -1,12 +1,12 @@
 {
-  "totalSolved": 19,
+  "totalSolved": 20,
   "currentStreak": 6,
   "maxStreak": 6,
   "lastSyncDate": "2026-07-10",
-  "todayCount": 2,
+  "todayCount": 3,
   "difficultyCounts": {
     "easy": 7,
-    "medium": 10,
+    "medium": 11,
     "hard": 1,
     "basic": 1
   },
@@ -29,7 +29,8 @@
     "GeeksForGeeks_Children_Sum_in_a_Binary_Tree": true,
     "LeetCode_Flatten_Binary_Tree_to_Linked_List": true,
     "LeetCode_Convert_Sorted_Array_to_Binary_Search_Tree": true,
-    "LeetCode_Search_in_a_Binary_Search_Tree": true
+    "LeetCode_Search_in_a_Binary_Search_Tree": true,
+    "LeetCode_Populating_Next_Right_Pointers_in_Each_Node": true
   },
   "activityHistory": {
     "2026-07-05": 2,
@@ -37,10 +38,11 @@
     "2026-07-07": 5,
     "2026-07-08": 3,
     "2026-07-09": 3,
-    "2026-07-10": 2
+    "2026-07-10": 3
   },
   "todayProblems": [
     "Convert Sorted Array to Binary Search Tree",
-    "Search in a Binary Search Tree"
+    "Search in a Binary Search Tree",
+    "Populating Next Right Pointers in Each Node"
   ]
 }

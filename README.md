@@ -19,3 +19,4 @@
 | 17 | [Flatten Binary Tree to Linked List](./LeetCode/Medium/Flatten%20Binary%20Tree%20to%20Linked%20List) | [LeetCode](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) | Medium | 09 Jul 2026 | 10:07 am |
 | 18 | [Convert Sorted Array to Binary Search Tree](./LeetCode/Easy/Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree) | [LeetCode](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | Easy | 10 Jul 2026 | 09:41 am |
 | 19 | [Search in a Binary Search Tree](./LeetCode/Easy/Search%20in%20a%20Binary%20Search%20Tree) | [LeetCode](https://leetcode.com/problems/search-in-a-binary-search-tree/) | Easy | 10 Jul 2026 | 09:41 am |
+| 20 | [Populating Next Right Pointers in Each Node](./LeetCode/Medium/Populating%20Next%20Right%20Pointers%20in%20Each%20Node) | [LeetCode](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) | Medium | 10 Jul 2026 | 09:41 am |
