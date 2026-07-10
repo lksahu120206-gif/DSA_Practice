@@ -18,3 +18,4 @@
 | 16 | [Children Sum in a Binary Tree](./GeeksForGeeks/Medium/Children%20Sum%20in%20a%20Binary%20Tree) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/children-sum-parent/1) | Medium | 09 Jul 2026 | 10:07 am |
 | 17 | [Flatten Binary Tree to Linked List](./LeetCode/Medium/Flatten%20Binary%20Tree%20to%20Linked%20List) | [LeetCode](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) | Medium | 09 Jul 2026 | 10:07 am |
 | 18 | [Convert Sorted Array to Binary Search Tree](./LeetCode/Easy/Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree) | [LeetCode](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) | Easy | 10 Jul 2026 | 09:41 am |
+| 19 | [Search in a Binary Search Tree](./LeetCode/Easy/Search%20in%20a%20Binary%20Search%20Tree) | [LeetCode](https://leetcode.com/problems/search-in-a-binary-search-tree/) | Easy | 10 Jul 2026 | 09:41 am |
