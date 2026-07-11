@@ -21,3 +21,4 @@
 | 19 | [Search in a Binary Search Tree](./LeetCode/Easy/Search%20in%20a%20Binary%20Search%20Tree) | [LeetCode](https://leetcode.com/problems/search-in-a-binary-search-tree/) | Easy | 10 Jul 2026 | 09:41 am |
 | 20 | [Populating Next Right Pointers in Each Node](./LeetCode/Medium/Populating%20Next%20Right%20Pointers%20in%20Each%20Node) | [LeetCode](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) | Medium | 10 Jul 2026 | 09:41 am |
 | 21 | [Construct Binary Search Tree from Preorder Traversal](./LeetCode/Medium/Construct%20Binary%20Search%20Tree%20from%20Preorder%20Traversal) | [LeetCode](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/) | Medium | 11 Jul 2026 | 08:40 am |
+| 22 | [Validate Binary Search Tree](./LeetCode/Medium/Validate%20Binary%20Search%20Tree) | [LeetCode](https://leetcode.com/problems/validate-binary-search-tree/) | Medium | 11 Jul 2026 | 08:40 am |

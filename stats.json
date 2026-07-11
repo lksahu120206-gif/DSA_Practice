@@ -1,12 +1,12 @@
 {
-  "totalSolved": 21,
+  "totalSolved": 22,
   "currentStreak": 7,
   "maxStreak": 7,
   "lastSyncDate": "2026-07-11",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 7,
-    "medium": 12,
+    "medium": 13,
     "hard": 1,
     "basic": 1
   },
@@ -31,7 +31,8 @@
     "LeetCode_Convert_Sorted_Array_to_Binary_Search_Tree": true,
     "LeetCode_Search_in_a_Binary_Search_Tree": true,
     "LeetCode_Populating_Next_Right_Pointers_in_Each_Node": true,
-    "LeetCode_Construct_Binary_Search_Tree_from_Preorder_Traversal": true
+    "LeetCode_Construct_Binary_Search_Tree_from_Preorder_Traversal": true,
+    "LeetCode_Validate_Binary_Search_Tree": true
   },
   "activityHistory": {
     "2026-07-05": 2,
@@ -40,9 +41,10 @@
     "2026-07-08": 3,
     "2026-07-09": 3,
     "2026-07-10": 3,
-    "2026-07-11": 1
+    "2026-07-11": 2
   },
   "todayProblems": [
-    "Construct Binary Search Tree from Preorder Traversal"
+    "Construct Binary Search Tree from Preorder Traversal",
+    "Validate Binary Search Tree"
   ]
 }
