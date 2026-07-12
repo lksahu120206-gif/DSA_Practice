@@ -24,3 +24,4 @@
 | 22 | [Validate Binary Search Tree](./LeetCode/Medium/Validate%20Binary%20Search%20Tree) | [LeetCode](https://leetcode.com/problems/validate-binary-search-tree/) | Medium | 11 Jul 2026 | 08:40 am |
 | 23 | [Lowest Common Ancestor of a Binary Search Tree](./LeetCode/Medium/Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree) | [LeetCode](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | Medium | 11 Jul 2026 | 08:40 am |
 | 24 | [Predecessor and Successor in BST](./Manual/Medium/Predecessor%20and%20Successor%20in%20BST) | [Manual](https://www.naukri.com/code360/problems/predecessor-and-successor-in-bst_893049?leftPanelTabValue=SUBMISSION) | Medium | 11 Jul 2026 | 09:05 am |
+| 25 | [Floor in BST](./GeeksForGeeks/Easy/Floor%20in%20BST) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/closest-neighbor-in-bst/1) | Easy | 12 Jul 2026 | 10:30 am |
