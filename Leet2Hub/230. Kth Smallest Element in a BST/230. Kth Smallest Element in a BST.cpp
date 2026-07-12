@@ -12,7 +12,7 @@
 12class Solution {
 13public:
 14    int cnt = 0;
-15    int ans = -1;
+15    int ans = 0;
 16
 17    void inorder(TreeNode* root, int k) {
 18        if (!root || cnt >= k)
