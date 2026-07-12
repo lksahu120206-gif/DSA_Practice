@@ -26,3 +26,4 @@
 | 24 | [Predecessor and Successor in BST](./Manual/Medium/Predecessor%20and%20Successor%20in%20BST) | [Manual](https://www.naukri.com/code360/problems/predecessor-and-successor-in-bst_893049?leftPanelTabValue=SUBMISSION) | Medium | 11 Jul 2026 | 09:05 am |
 | 25 | [Floor in BST](./GeeksForGeeks/Easy/Floor%20in%20BST) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/closest-neighbor-in-bst/1) | Easy | 12 Jul 2026 | 10:30 am |
 | 26 | [Ceil in BST](./GeeksForGeeks/Medium/Ceil%20in%20BST) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/implementing-ceil-in-bst/1) | Medium | 12 Jul 2026 | 10:30 am |
+| 27 | [Kth Smallest Element in a BST](./LeetCode/Medium/Kth%20Smallest%20Element%20in%20a%20BST) | [LeetCode](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | Medium | 12 Jul 2026 | 10:30 am |
