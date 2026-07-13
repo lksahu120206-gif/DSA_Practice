@@ -1,13 +1,13 @@
 {
-  "totalSolved": 28,
+  "totalSolved": 29,
   "currentStreak": 9,
   "maxStreak": 9,
   "lastSyncDate": "2026-07-13",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 9,
     "medium": 17,
-    "hard": 1,
+    "hard": 2,
     "basic": 1
   },
   "syncedProblems": {
@@ -38,7 +38,8 @@
     "GeeksForGeeks_Ceil_in_BST": true,
     "LeetCode_Kth_Smallest_Element_in_a_BST": true,
     "GeeksForGeeks_Floor_in_BST": true,
-    "LeetCode_Two_Sum_IV_-_Input_is_a_BST": true
+    "LeetCode_Two_Sum_IV_-_Input_is_a_BST": true,
+    "LeetCode_Maximum_Sum_BST_in_Binary_Tree": true
   },
   "activityHistory": {
     "2026-07-05": 2,
@@ -49,9 +50,10 @@
     "2026-07-10": 3,
     "2026-07-11": 4,
     "2026-07-12": 3,
-    "2026-07-13": 1
+    "2026-07-13": 2
   },
   "todayProblems": [
-    "Two Sum IV - Input is a BST"
+    "Two Sum IV - Input is a BST",
+    "Maximum Sum BST in Binary Tree"
   ]
 }

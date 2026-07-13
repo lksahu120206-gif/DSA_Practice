@@ -28,3 +28,4 @@
 | 26 | [Ceil in BST](./GeeksForGeeks/Medium/Ceil%20in%20BST) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/implementing-ceil-in-bst/1) | Medium | 12 Jul 2026 | 10:30 am |
 | 27 | [Kth Smallest Element in a BST](./LeetCode/Medium/Kth%20Smallest%20Element%20in%20a%20BST) | [LeetCode](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | Medium | 12 Jul 2026 | 10:30 am |
 | 28 | [Two Sum IV - Input is a BST](./LeetCode/Easy/Two%20Sum%20IV%20-%20Input%20is%20a%20BST) | [LeetCode](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/) | Easy | 13 Jul 2026 | 09:40 am |
+| 29 | [Maximum Sum BST in Binary Tree](./LeetCode/Hard/Maximum%20Sum%20BST%20in%20Binary%20Tree) | [LeetCode](https://leetcode.com/problems/maximum-sum-bst-in-binary-tree/) | Hard | 13 Jul 2026 | 09:40 am |
