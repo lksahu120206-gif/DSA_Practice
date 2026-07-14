@@ -11,17 +11,25 @@
 11 */
 12class Solution {
 13public:
-14    TreeNode* previous = nullptr;
+14    void flatten(TreeNode* root) {
 15
-16    void flatten(TreeNode* root) {
-17        if (root == nullptr) return;
-18
-19        flatten(root->right);
-20        flatten(root->left);
+16        TreeNode* cur = root;
+17
+18        while (cur) {
+19
+20            if (cur->left) {
 21
-22        root->right = previous;
-23        root->left = nullptr;
-24
-25        previous = root;
-26    }
-27};
+22                TreeNode* prev = cur->left;
+23
+24                while (prev->right)
+25                    prev = prev->right;
+26
+27                prev->right = cur->right;
+28                cur->right = cur->left;
+29                cur->left = nullptr;
+30            }
+31
+32            cur = cur->right;
+33        }
+34    }
+35};
