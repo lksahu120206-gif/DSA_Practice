@@ -31,3 +31,4 @@
 | 29 | [Maximum Sum BST in Binary Tree](./LeetCode/Hard/Maximum%20Sum%20BST%20in%20Binary%20Tree) | [LeetCode](https://leetcode.com/problems/maximum-sum-bst-in-binary-tree/) | Hard | 13 Jul 2026 | 09:40 am |
 | 30 | [Serialize and Deserialize Binary Tree](./LeetCode/Hard/Serialize%20and%20Deserialize%20Binary%20Tree) | [LeetCode](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | Hard | 13 Jul 2026 | 09:46 am |
 | 31 | [Binary Search Tree Iterator](./LeetCode/Medium/Binary%20Search%20Tree%20Iterator) | [LeetCode](https://leetcode.com/problems/binary-search-tree-iterator/) | Medium | 13 Jul 2026 | 09:47 am |
+| 32 | [Find Median from Data Stream](./LeetCode/Hard/Find%20Median%20from%20Data%20Stream) | [LeetCode](https://leetcode.com/problems/find-median-from-data-stream/) | Hard | 14 Jul 2026 | 09:41 am |
