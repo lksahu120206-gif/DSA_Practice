@@ -1,0 +1,25 @@
+# Count distinct elements in every window
+
+## Difficulty: Medium
+
+## Platform: GeeksForGeeks
+
+## Problem Link
+[View Problem](https://www.geeksforgeeks.org/problems/count-distinct-elements-in-every-window/1)
+
+## Solved On
+15 Jul 2026 at 12:52 pm
+
+<h2><a href="https://www.geeksforgeeks.org/problems/count-distinct-elements-in-every-window/1">Count distinct elements in every window</a></h2><h3>Difficulty Level: Medium</h3><hr><p><span style="font-size: 18px;">Given an integer array <strong>arr[]</strong>&nbsp;and a number <strong>k</strong>. Find the count of distinct elements in every window of size <strong>k</strong> in the array.</span></p>
+<p><strong><span style="font-size: 18px;">Examples:</span></strong></p>
+<pre><strong><span style="font-size: 18px;">Input:</span></strong><span style="font-size: 18px;"> arr[] = [1, 2, 1, 3, 4, 2, 3], k = 4
+<strong>Output: </strong>[3, 4, 4, 3]<strong>
+Explanation:<br></strong></span><span style="font-size: 18px;">First window is [1, 2, 1, 3], count of distinct numbers is 3.
+</span><span style="font-size: 18px;">Second window is [2, 1, 3, 4] count of distinct numbers is 4.</span>
+<span style="font-size: 18px;">Third window is [1, 3, 4, 2] count of distinct numbers is 4.</span>
+<span style="font-size: 18px;">Fourth window is [3, 4, 2, 3] count of distinct numbers is 3.</span></pre>
+<pre><strong><span style="font-size: 18px;">Input: </span></strong><span style="font-size: 18px;"><span style="font-size: 18px;">arr[] = [4, 1, 1], k = 2
+</span><strong style="font-size: 18px;">Output: </strong><span style="font-size: 18px;">[2, 1]<br></span><strong style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;">Explanation:</strong><br><span style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;">First window is [4, 1], count of distinct numbers is 2.<br></span><span style="font-size: 18px;">Second window is [1, 1], count of distinct numbers is 1.</span></span></pre>
+<pre><span style="font-size: 14pt;"><strong>Input: </strong>arr[] = [1, 1, 1, 1, 1], k = 3
+<strong>Output: </strong>[1, 1, 1]<br><strong>Explanation:</strong> Every window of size 3 in the array [1, 1, 1, 1, 1], contains only the element 1, so the number of distinct elements in each window is 1.</span></pre>
+<p><span style="font-size: 18px;"><strong>Constraints:</strong></span><br><span style="font-size: 18px;">1 ≤ k ≤ arr.size() ≤ 10<sup>5</sup></span><br><span style="font-size: 18px;">1 ≤ arr[i] ≤ 10<sup>5</sup></span></p>
