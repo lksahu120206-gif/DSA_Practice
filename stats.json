@@ -1,12 +1,12 @@
 {
-  "totalSolved": 33,
-  "currentStreak": 10,
-  "maxStreak": 10,
-  "lastSyncDate": "2026-07-14",
-  "todayCount": 2,
+  "totalSolved": 34,
+  "currentStreak": 11,
+  "maxStreak": 11,
+  "lastSyncDate": "2026-07-15",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 10,
-    "medium": 18,
+    "medium": 19,
     "hard": 4,
     "basic": 1
   },
@@ -43,7 +43,8 @@
     "LeetCode_Serialize_and_Deserialize_Binary_Tree": true,
     "LeetCode_Binary_Search_Tree_Iterator": true,
     "LeetCode_Find_Median_from_Data_Stream": true,
-    "LeetCode_Kth_Largest_Element_in_a_Stream": true
+    "LeetCode_Kth_Largest_Element_in_a_Stream": true,
+    "LeetCode_Kth_Largest_Element_in_an_Array": true
   },
   "activityHistory": {
     "2026-07-05": 2,
@@ -55,10 +56,10 @@
     "2026-07-11": 4,
     "2026-07-12": 3,
     "2026-07-13": 4,
-    "2026-07-14": 2
+    "2026-07-14": 2,
+    "2026-07-15": 1
   },
   "todayProblems": [
-    "Find Median from Data Stream",
-    "Kth Largest Element in a Stream"
+    "Kth Largest Element in an Array"
   ]
 }
