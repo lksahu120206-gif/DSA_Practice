@@ -35,3 +35,4 @@
 | 33 | [Kth Largest Element in a Stream](./LeetCode/Easy/Kth%20Largest%20Element%20in%20a%20Stream) | [LeetCode](https://leetcode.com/problems/kth-largest-element-in-a-stream/) | Easy | 14 Jul 2026 | 09:42 am |
 | 34 | [Kth Largest Element in an Array](./LeetCode/Medium/Kth%20Largest%20Element%20in%20an%20Array) | [LeetCode](https://leetcode.com/problems/kth-largest-element-in-an-array/) | Medium | 15 Jul 2026 | 12:52 pm |
 | 35 | [Count distinct elements in every window](./GeeksForGeeks/Medium/Count%20distinct%20elements%20in%20every%20window) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/count-distinct-elements-in-every-window/1) | Medium | 15 Jul 2026 | 12:52 pm |
+| 36 | [Flood Fill](./LeetCode/Easy/Flood%20Fill) | [LeetCode](https://leetcode.com/problems/flood-fill/) | Easy | 15 Jul 2026 | 12:52 pm |
