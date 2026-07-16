@@ -1,11 +1,11 @@
 {
-  "totalSolved": 38,
+  "totalSolved": 39,
   "currentStreak": 12,
   "maxStreak": 12,
   "lastSyncDate": "2026-07-16",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
-    "easy": 13,
+    "easy": 14,
     "medium": 20,
     "hard": 4,
     "basic": 1
@@ -48,7 +48,8 @@
     "GeeksForGeeks_Count_distinct_elements_in_every_window": true,
     "LeetCode_Flood_Fill": true,
     "LeetCode_Two_Sum": true,
-    "GeeksForGeeks_DFS_of_Graph": true
+    "GeeksForGeeks_DFS_of_Graph": true,
+    "GeeksForGeeks_BFS_of_graph": true
   },
   "activityHistory": {
     "2026-07-05": 2,
@@ -62,9 +63,10 @@
     "2026-07-13": 4,
     "2026-07-14": 2,
     "2026-07-15": 4,
-    "2026-07-16": 1
+    "2026-07-16": 2
   },
   "todayProblems": [
-    "DFS of Graph"
+    "DFS of Graph",
+    "BFS of graph"
   ]
 }

@@ -38,3 +38,4 @@
 | 36 | [Flood Fill](./LeetCode/Easy/Flood%20Fill) | [LeetCode](https://leetcode.com/problems/flood-fill/) | Easy | 15 Jul 2026 | 12:52 pm |
 | 37 | [Two Sum](./LeetCode/Easy/Two%20Sum) | [LeetCode](https://leetcode.com/problems/two-sum/) | Easy | 15 Jul 2026 | 08:57 pm |
 | 38 | [DFS of Graph](./GeeksForGeeks/Easy/DFS%20of%20Graph) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/depth-first-traversal-for-a-graph/1) | Easy | 16 Jul 2026 | 10:57 am |
+| 39 | [BFS of graph](./GeeksForGeeks/Easy/BFS%20of%20graph) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/bfs-traversal-of-graph/1) | Easy | 16 Jul 2026 | 10:57 am |
