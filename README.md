@@ -37,3 +37,4 @@
 | 35 | [Count distinct elements in every window](./GeeksForGeeks/Medium/Count%20distinct%20elements%20in%20every%20window) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/count-distinct-elements-in-every-window/1) | Medium | 15 Jul 2026 | 12:52 pm |
 | 36 | [Flood Fill](./LeetCode/Easy/Flood%20Fill) | [LeetCode](https://leetcode.com/problems/flood-fill/) | Easy | 15 Jul 2026 | 12:52 pm |
 | 37 | [Two Sum](./LeetCode/Easy/Two%20Sum) | [LeetCode](https://leetcode.com/problems/two-sum/) | Easy | 15 Jul 2026 | 08:57 pm |
+| 38 | [DFS of Graph](./GeeksForGeeks/Easy/DFS%20of%20Graph) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/depth-first-traversal-for-a-graph/1) | Easy | 16 Jul 2026 | 10:57 am |
