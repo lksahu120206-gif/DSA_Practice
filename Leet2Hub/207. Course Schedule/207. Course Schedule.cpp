@@ -1,36 +1,42 @@
 1class Solution {
 2public:
-3    bool canFinish(int numCourses, vector<vector<int>>& prerequisites) {
-4
-5        vector<vector<int>> adj(numCourses);
-6        vector<int> indegree(numCourses, 0);
-7
-8        for (auto &edge : prerequisites) {
-9            adj[edge[1]].push_back(edge[0]);
-10            indegree[edge[0]]++;
-11        }
-12
-13        queue<int> q;
-14
-15        for (int i = 0; i < numCourses; i++) {
-16            if (indegree[i] == 0)
-17                q.push(i);
-18        }
-19
-20        int count = 0;
-21
-22        while (!q.empty()) {
-23            int node = q.front();
-24            q.pop();
-25            count++;
+3    bool dfs(int node, vector<vector<int>>& adj,
+4             vector<int>& vis, vector<int>& pathVis) {
+5
+6        vis[node] = 1;
+7        pathVis[node] = 1;
+8
+9        for (int nbr : adj[node]) {
+10            if (!vis[nbr]) {
+11                if (dfs(nbr, adj, vis, pathVis))
+12                    return true;
+13            }
+14            else if (pathVis[nbr]) {
+15                return true;
+16            }
+17        }
+18
+19        pathVis[node] = 0;
+20        return false;
+21    }
+22
+23    bool canFinish(int numCourses, vector<vector<int>>& prerequisites) {
+24
+25        vector<vector<int>> adj(numCourses);
 26
-27            for (int nbr : adj[node]) {
-28                indegree[nbr]--;
-29                if (indegree[nbr] == 0)
-30                    q.push(nbr);
-31            }
-32        }
-33
-34        return count == numCourses;
-35    }
-36};
+27        for (auto &e : prerequisites)
+28            adj[e[1]].push_back(e[0]);
+29
+30        vector<int> vis(numCourses, 0);
+31        vector<int> pathVis(numCourses, 0);
+32
+33        for (int i = 0; i < numCourses; i++) {
+34            if (!vis[i]) {
+35                if (dfs(i, adj, vis, pathVis))
+36                    return false;
+37            }
+38        }
+39
+40        return true;
+41    }
+42};
