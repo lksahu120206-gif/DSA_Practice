@@ -1,12 +1,12 @@
 {
-  "totalSolved": 41,
-  "currentStreak": 13,
-  "maxStreak": 13,
-  "lastSyncDate": "2026-07-17",
+  "totalSolved": 42,
+  "currentStreak": 14,
+  "maxStreak": 14,
+  "lastSyncDate": "2026-07-18",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 14,
-    "medium": 22,
+    "medium": 23,
     "hard": 4,
     "basic": 1
   },
@@ -51,7 +51,8 @@
     "GeeksForGeeks_DFS_of_Graph": true,
     "GeeksForGeeks_BFS_of_graph": true,
     "LeetCode_Clone_Graph": true,
-    "LeetCode_Course_Schedule": true
+    "LeetCode_Course_Schedule": true,
+    "LeetCode_Course_Schedule_II": true
   },
   "activityHistory": {
     "2026-07-05": 2,
@@ -66,9 +67,10 @@
     "2026-07-14": 2,
     "2026-07-15": 4,
     "2026-07-16": 3,
-    "2026-07-17": 1
+    "2026-07-17": 1,
+    "2026-07-18": 1
   },
   "todayProblems": [
-    "Course Schedule"
+    "Course Schedule II"
   ]
 }
