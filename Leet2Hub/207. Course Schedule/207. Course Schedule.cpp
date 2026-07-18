@@ -1,47 +1,40 @@
 1class Solution {
 2public:
-3    bool dfs(int node,
-4             vector<vector<int>>& adj,
-5             vector<int>& vis,
-6             vector<int>& pathVis) {
+3    bool canFinish(int numCourses, vector<vector<int>>& prerequisites) {
+4
+5        vector<vector<int>> adj(numCourses);
+6        vector<int> indegree(numCourses, 0);
 7
-8        vis[node] = 1;
-9        pathVis[node] = 1;
-10
-11        for (int nbr : adj[node]) {
-12
-13            if (!vis[nbr]) {
-14                if (dfs(nbr, adj, vis, pathVis))
-15                    return true;
-16            }
-17            else if (pathVis[nbr]) {
-18                return true;
-19            }
+8        // Build graph
+9        for (auto &e : prerequisites) {
+10            adj[e[1]].push_back(e[0]); // prerequisite -> course
+11            indegree[e[0]]++;
+12        }
+13
+14        queue<int> q;
+15
+16        // Push all courses with no prerequisites
+17        for (int i = 0; i < numCourses; i++) {
+18            if (indegree[i] == 0)
+19                q.push(i);
 20        }
 21
-22        pathVis[node] = 0;   // backtrack
-23        return false;
-24    }
+22        int completed = 0;
+23
+24        while (!q.empty()) {
 25
-26    bool canFinish(int numCourses, vector<vector<int>>& prerequisites) {
-27
-28        vector<vector<int>> adj(numCourses);
+26            int node = q.front();
+27            q.pop();
+28            completed++;
 29
-30        // b -> a
-31        for (auto &edge : prerequisites) {
-32            adj[edge[1]].push_back(edge[0]);
-33        }
-34
-35        vector<int> vis(numCourses, 0);
-36        vector<int> pathVis(numCourses, 0);
+30            for (int nbr : adj[node]) {
+31                indegree[nbr]--;
+32
+33                if (indegree[nbr] == 0)
+34                    q.push(nbr);
+35            }
+36        }
 37
-38        for (int i = 0; i < numCourses; i++) {
-39            if (!vis[i]) {
-40                if (dfs(i, adj, vis, pathVis))
-41                    return false;   // cycle found
-42            }
-43        }
-44
-45        return true;    // no cycle
-46    }
-47};
+38        return completed == numCourses;
+39    }
+40};
