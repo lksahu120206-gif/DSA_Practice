@@ -1,0 +1,32 @@
+1class Solution {
+2public:
+3    bool isBipartite(vector<vector<int>>& graph) {
+4        int n = graph.size();
+5        vector<int> color(n, -1); // -1 = uncolored
+6
+7        for (int i = 0; i < n; i++) {
+8            if (color[i] != -1) continue;
+9
+10            queue<int> q;
+11            q.push(i);
+12            color[i] = 0;
+13
+14            while (!q.empty()) {
+15                int node = q.front();
+16                q.pop();
+17
+18                for (int nbr : graph[node]) {
+19                    if (color[nbr] == -1) {
+20                        color[nbr] = 1 - color[node];
+21                        q.push(nbr);
+22                    }
+23                    else if (color[nbr] == color[node]) {
+24                        return false;
+25                    }
+26                }
+27            }
+28        }
+29
+30        return true;
+31    }
+32};
