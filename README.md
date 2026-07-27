@@ -48,3 +48,4 @@
 | 46 | [Is Graph Bipartite?](./LeetCode/Medium/Is%20Graph%20Bipartite%3F) | [LeetCode](https://leetcode.com/problems/is-graph-bipartite/) | Medium | 19 Jul 2026 | 12:00 pm |
 | 47 | [Minimum Path Sum](./LeetCode/Medium/Minimum%20Path%20Sum) | [LeetCode](https://leetcode.com/problems/minimum-path-sum/) | Medium | 24 Jul 2026 | 12:16 am |
 | 48 | [Edit Distance](./LeetCode/Medium/Edit%20Distance) | [LeetCode](https://leetcode.com/problems/edit-distance/) | Medium | 27 Jul 2026 | 04:03 pm |
+| 49 | [0 - 1 Knapsack Problem](./GeeksForGeeks/Medium/0%20-%201%20Knapsack%20Problem) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/0-1-knapsack-problem0945/1) | Medium | 27 Jul 2026 | 04:05 pm |
