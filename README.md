@@ -49,3 +49,4 @@
 | 47 | [Minimum Path Sum](./LeetCode/Medium/Minimum%20Path%20Sum) | [LeetCode](https://leetcode.com/problems/minimum-path-sum/) | Medium | 24 Jul 2026 | 12:16 am |
 | 48 | [Edit Distance](./LeetCode/Medium/Edit%20Distance) | [LeetCode](https://leetcode.com/problems/edit-distance/) | Medium | 27 Jul 2026 | 04:03 pm |
 | 49 | [0 - 1 Knapsack Problem](./GeeksForGeeks/Medium/0%20-%201%20Knapsack%20Problem) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/0-1-knapsack-problem0945/1) | Medium | 27 Jul 2026 | 04:05 pm |
+| 50 | [Matrix Chain Multiplication](./GeeksForGeeks/Hard/Matrix%20Chain%20Multiplication) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/matrix-chain-multiplication0303/1) | Hard | 27 Jul 2026 | 04:05 pm |
