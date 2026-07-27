@@ -47,3 +47,4 @@
 | 45 | [Number of Islands](./LeetCode/Medium/Number%20of%20Islands) | [LeetCode](https://leetcode.com/problems/number-of-islands/) | Medium | 19 Jul 2026 | 11:59 am |
 | 46 | [Is Graph Bipartite?](./LeetCode/Medium/Is%20Graph%20Bipartite%3F) | [LeetCode](https://leetcode.com/problems/is-graph-bipartite/) | Medium | 19 Jul 2026 | 12:00 pm |
 | 47 | [Minimum Path Sum](./LeetCode/Medium/Minimum%20Path%20Sum) | [LeetCode](https://leetcode.com/problems/minimum-path-sum/) | Medium | 24 Jul 2026 | 12:16 am |
+| 48 | [Edit Distance](./LeetCode/Medium/Edit%20Distance) | [LeetCode](https://leetcode.com/problems/edit-distance/) | Medium | 27 Jul 2026 | 04:03 pm |

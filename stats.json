@@ -1,12 +1,12 @@
 {
-  "totalSolved": 47,
+  "totalSolved": 48,
   "currentStreak": 1,
   "maxStreak": 15,
-  "lastSyncDate": "2026-07-24",
+  "lastSyncDate": "2026-07-27",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 14,
-    "medium": 28,
+    "medium": 29,
     "hard": 4,
     "basic": 1
   },
@@ -57,7 +57,8 @@
     "GeeksForGeeks_Directed_Graph_Cycle": true,
     "LeetCode_Number_of_Islands": true,
     "LeetCode_Is_Graph_Bipartite?": true,
-    "LeetCode_Minimum_Path_Sum": true
+    "LeetCode_Minimum_Path_Sum": true,
+    "LeetCode_Edit_Distance": true
   },
   "activityHistory": {
     "2026-07-05": 2,
@@ -75,9 +76,10 @@
     "2026-07-17": 1,
     "2026-07-18": 3,
     "2026-07-19": 2,
-    "2026-07-24": 1
+    "2026-07-24": 1,
+    "2026-07-27": 1
   },
   "todayProblems": [
-    "Minimum Path Sum"
+    "Edit Distance"
   ]
 }
