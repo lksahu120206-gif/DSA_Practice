@@ -56,3 +56,4 @@
 | 54 | [Super Egg Drop](./LeetCode/Hard/Super%20Egg%20Drop) | [LeetCode](https://leetcode.com/problems/super-egg-drop/) | Hard | 27 Jul 2026 | 04:47 pm |
 | 55 | [Rod Cutting](./GeeksForGeeks/Medium/Rod%20Cutting) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/rod-cutting0840/1) | Medium | 27 Jul 2026 | 04:48 pm |
 | 56 | [Word Break](./LeetCode/Medium/Word%20Break) | [LeetCode](https://leetcode.com/problems/word-break/) | Medium | 27 Jul 2026 | 04:49 pm |
+| 57 | [Palindrome Partitioning](./LeetCode/Medium/Palindrome%20Partitioning) | [LeetCode](https://leetcode.com/problems/palindrome-partitioning/) | Medium | 27 Jul 2026 | 04:59 pm |
