@@ -54,3 +54,4 @@
 | 52 | [Subset Sum Problem](./GeeksForGeeks/Medium/Subset%20Sum%20Problem) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/subset-sum-problem-1611555638/1) | Medium | 27 Jul 2026 | 04:16 pm |
 | 53 | [Coin Change II](./LeetCode/Medium/Coin%20Change%20II) | [LeetCode](https://leetcode.com/problems/coin-change-ii/) | Medium | 27 Jul 2026 | 04:34 pm |
 | 54 | [Super Egg Drop](./LeetCode/Hard/Super%20Egg%20Drop) | [LeetCode](https://leetcode.com/problems/super-egg-drop/) | Hard | 27 Jul 2026 | 04:47 pm |
+| 55 | [Rod Cutting](./GeeksForGeeks/Medium/Rod%20Cutting) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/rod-cutting0840/1) | Medium | 27 Jul 2026 | 04:48 pm |

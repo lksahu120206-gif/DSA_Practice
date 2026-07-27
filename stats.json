@@ -1,12 +1,12 @@
 {
-  "totalSolved": 54,
+  "totalSolved": 55,
   "currentStreak": 1,
   "maxStreak": 15,
   "lastSyncDate": "2026-07-27",
-  "todayCount": 7,
+  "todayCount": 8,
   "difficultyCounts": {
     "easy": 14,
-    "medium": 33,
+    "medium": 34,
     "hard": 6,
     "basic": 1
   },
@@ -64,7 +64,8 @@
     "GeeksForGeeks_Max_Sum_Increasing_Subsequence": true,
     "GeeksForGeeks_Subset_Sum_Problem": true,
     "LeetCode_Coin_Change_II": true,
-    "LeetCode_Super_Egg_Drop": true
+    "LeetCode_Super_Egg_Drop": true,
+    "GeeksForGeeks_Rod_Cutting": true
   },
   "activityHistory": {
     "2026-07-05": 2,
@@ -83,7 +84,7 @@
     "2026-07-18": 3,
     "2026-07-19": 2,
     "2026-07-24": 1,
-    "2026-07-27": 7
+    "2026-07-27": 8
   },
   "todayProblems": [
     "Edit Distance",
@@ -92,6 +93,7 @@
     "Max Sum Increasing Subsequence",
     "Subset Sum Problem",
     "Coin Change II",
-    "Super Egg Drop"
+    "Super Egg Drop",
+    "Rod Cutting"
   ]
 }
