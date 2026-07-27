@@ -58,3 +58,4 @@
 | 56 | [Word Break](./LeetCode/Medium/Word%20Break) | [LeetCode](https://leetcode.com/problems/word-break/) | Medium | 27 Jul 2026 | 04:49 pm |
 | 57 | [Palindrome Partitioning](./LeetCode/Medium/Palindrome%20Partitioning) | [LeetCode](https://leetcode.com/problems/palindrome-partitioning/) | Medium | 27 Jul 2026 | 04:59 pm |
 | 58 | [Maximum Profit in Job Scheduling](./LeetCode/Hard/Maximum%20Profit%20in%20Job%20Scheduling) | [LeetCode](https://leetcode.com/problems/maximum-profit-in-job-scheduling/) | Hard | 27 Jul 2026 | 04:59 pm |
+| 59 | [Implement Trie ll](./Manual/Medium/Implement%20Trie%20ll) | [Manual](https://www.naukri.com/code360/problems/implement-trie_1387095?leftPanelTabValue=SUBMISSION) | Medium | 27 Jul 2026 | 05:08 pm |

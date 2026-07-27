@@ -1,12 +1,12 @@
 {
-  "totalSolved": 58,
+  "totalSolved": 59,
   "currentStreak": 1,
   "maxStreak": 15,
   "lastSyncDate": "2026-07-27",
-  "todayCount": 11,
+  "todayCount": 12,
   "difficultyCounts": {
     "easy": 14,
-    "medium": 36,
+    "medium": 37,
     "hard": 7,
     "basic": 1
   },
@@ -68,7 +68,8 @@
     "GeeksForGeeks_Rod_Cutting": true,
     "LeetCode_Word_Break": true,
     "LeetCode_Palindrome_Partitioning": true,
-    "LeetCode_Maximum_Profit_in_Job_Scheduling": true
+    "LeetCode_Maximum_Profit_in_Job_Scheduling": true,
+    "Manual_Implement_Trie_ll": true
   },
   "activityHistory": {
     "2026-07-05": 2,
@@ -87,7 +88,7 @@
     "2026-07-18": 3,
     "2026-07-19": 2,
     "2026-07-24": 1,
-    "2026-07-27": 11
+    "2026-07-27": 12
   },
   "todayProblems": [
     "Edit Distance",
@@ -100,6 +101,7 @@
     "Rod Cutting",
     "Word Break",
     "Palindrome Partitioning",
-    "Maximum Profit in Job Scheduling"
+    "Maximum Profit in Job Scheduling",
+    "Implement Trie ll"
   ]
 }
