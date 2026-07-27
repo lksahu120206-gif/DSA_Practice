@@ -51,3 +51,4 @@
 | 49 | [0 - 1 Knapsack Problem](./GeeksForGeeks/Medium/0%20-%201%20Knapsack%20Problem) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/0-1-knapsack-problem0945/1) | Medium | 27 Jul 2026 | 04:05 pm |
 | 50 | [Matrix Chain Multiplication](./GeeksForGeeks/Hard/Matrix%20Chain%20Multiplication) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/matrix-chain-multiplication0303/1) | Hard | 27 Jul 2026 | 04:05 pm |
 | 51 | [Max Sum Increasing Subsequence](./GeeksForGeeks/Medium/Max%20Sum%20Increasing%20Subsequence) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/maximum-sum-increasing-subsequence4749/1) | Medium | 27 Jul 2026 | 04:06 pm |
+| 52 | [Subset Sum Problem](./GeeksForGeeks/Medium/Subset%20Sum%20Problem) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/subset-sum-problem-1611555638/1) | Medium | 27 Jul 2026 | 04:16 pm |

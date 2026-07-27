@@ -1,12 +1,12 @@
 {
-  "totalSolved": 51,
+  "totalSolved": 52,
   "currentStreak": 1,
   "maxStreak": 15,
   "lastSyncDate": "2026-07-27",
-  "todayCount": 4,
+  "todayCount": 5,
   "difficultyCounts": {
     "easy": 14,
-    "medium": 31,
+    "medium": 32,
     "hard": 5,
     "basic": 1
   },
@@ -61,7 +61,8 @@
     "LeetCode_Edit_Distance": true,
     "GeeksForGeeks_0_-_1_Knapsack_Problem": true,
     "GeeksForGeeks_Matrix_Chain_Multiplication": true,
-    "GeeksForGeeks_Max_Sum_Increasing_Subsequence": true
+    "GeeksForGeeks_Max_Sum_Increasing_Subsequence": true,
+    "GeeksForGeeks_Subset_Sum_Problem": true
   },
   "activityHistory": {
     "2026-07-05": 2,
@@ -80,12 +81,13 @@
     "2026-07-18": 3,
     "2026-07-19": 2,
     "2026-07-24": 1,
-    "2026-07-27": 4
+    "2026-07-27": 5
   },
   "todayProblems": [
     "Edit Distance",
     "0 - 1 Knapsack Problem",
     "Matrix Chain Multiplication",
-    "Max Sum Increasing Subsequence"
+    "Max Sum Increasing Subsequence",
+    "Subset Sum Problem"
   ]
 }
