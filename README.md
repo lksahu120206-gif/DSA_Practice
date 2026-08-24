@@ -62,3 +62,4 @@
 | 60 | [Implement Trie (Prefix Tree)](./LeetCode/Medium/Implement%20Trie%20(Prefix%20Tree)) | [LeetCode](https://leetcode.com/problems/implement-trie-prefix-tree/) | Medium | 27 Jul 2026 | 05:09 pm |
 | 61 | [Weird Algorithm](./Manual/Easy/Weird%20Algorithm) | [Manual](https://cses.fi/problemset/task/1068/) | Easy | 30 Jul 2026 | 05:40 pm |
 | 62 | [Geek in a Maze](./GeeksForGeeks/Hard/Geek%20in%20a%20Maze) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/geek-in-a-maze--170637/1) | Hard | 25 Aug 2026 | 12:49 am |
+| 63 | [Count Prefix-Balanced Binary Strings](./GeeksForGeeks/Easy/Count%20Prefix-Balanced%20Binary%20Strings) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/geek-and-his-binary-strings1951/1) | Easy | 25 Aug 2026 | 12:49 am |
