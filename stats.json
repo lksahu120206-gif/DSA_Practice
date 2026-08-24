@@ -1,13 +1,13 @@
 {
-  "totalSolved": 61,
+  "totalSolved": 62,
   "currentStreak": 1,
   "maxStreak": 15,
-  "lastSyncDate": "2026-07-30",
+  "lastSyncDate": "2026-08-25",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 15,
     "medium": 38,
-    "hard": 7,
+    "hard": 8,
     "basic": 1
   },
   "syncedProblems": {
@@ -71,7 +71,8 @@
     "LeetCode_Maximum_Profit_in_Job_Scheduling": true,
     "Manual_Implement_Trie_ll": true,
     "LeetCode_Implement_Trie_(Prefix_Tree)": true,
-    "Manual_Weird_Algorithm": true
+    "Manual_Weird_Algorithm": true,
+    "GeeksForGeeks_Geek_in_a_Maze": true
   },
   "activityHistory": {
     "2026-07-05": 2,
@@ -91,9 +92,10 @@
     "2026-07-19": 2,
     "2026-07-24": 1,
     "2026-07-27": 13,
-    "2026-07-30": 1
+    "2026-07-30": 1,
+    "2026-08-25": 1
   },
   "todayProblems": [
-    "Weird Algorithm"
+    "Geek in a Maze"
   ]
 }
