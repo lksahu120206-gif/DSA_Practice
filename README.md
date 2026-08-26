@@ -64,3 +64,4 @@
 | 62 | [Geek in a Maze](./GeeksForGeeks/Hard/Geek%20in%20a%20Maze) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/geek-in-a-maze--170637/1) | Hard | 25 Aug 2026 | 12:49 am |
 | 63 | [Count Prefix-Balanced Binary Strings](./GeeksForGeeks/Easy/Count%20Prefix-Balanced%20Binary%20Strings) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/geek-and-his-binary-strings1951/1) | Easy | 25 Aug 2026 | 12:49 am |
 | 64 | [Minimum Moves to Sort Permutation](./GeeksForGeeks/Medium/Minimum%20Moves%20to%20Sort%20Permutation) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/morning-assembly3038/1) | Medium | 26 Aug 2026 | 11:39 am |
+| 65 | [Negative Weight Cycle](./GeeksForGeeks/Medium/Negative%20Weight%20Cycle) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/negative-weight-cycle3504/1) | Medium | 26 Aug 2026 | 11:43 am |
