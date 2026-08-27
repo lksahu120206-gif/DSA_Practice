@@ -65,3 +65,4 @@
 | 63 | [Count Prefix-Balanced Binary Strings](./GeeksForGeeks/Easy/Count%20Prefix-Balanced%20Binary%20Strings) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/geek-and-his-binary-strings1951/1) | Easy | 25 Aug 2026 | 12:49 am |
 | 64 | [Minimum Moves to Sort Permutation](./GeeksForGeeks/Medium/Minimum%20Moves%20to%20Sort%20Permutation) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/morning-assembly3038/1) | Medium | 26 Aug 2026 | 11:39 am |
 | 65 | [Negative Weight Cycle](./GeeksForGeeks/Medium/Negative%20Weight%20Cycle) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/negative-weight-cycle3504/1) | Medium | 26 Aug 2026 | 11:43 am |
+| 66 | [Largest Rectangle with Column Swaps](./GeeksForGeeks/Hard/Largest%20Rectangle%20with%20Column%20Swaps) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/find-the-largest-rectangle-of-1s-with-swapping-of-columns-allowed0243/1) | Hard | 27 Aug 2026 | 11:18 pm |
