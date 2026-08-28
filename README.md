@@ -66,3 +66,4 @@
 | 64 | [Minimum Moves to Sort Permutation](./GeeksForGeeks/Medium/Minimum%20Moves%20to%20Sort%20Permutation) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/morning-assembly3038/1) | Medium | 26 Aug 2026 | 11:39 am |
 | 65 | [Negative Weight Cycle](./GeeksForGeeks/Medium/Negative%20Weight%20Cycle) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/negative-weight-cycle3504/1) | Medium | 26 Aug 2026 | 11:43 am |
 | 66 | [Largest Rectangle with Column Swaps](./GeeksForGeeks/Hard/Largest%20Rectangle%20with%20Column%20Swaps) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/find-the-largest-rectangle-of-1s-with-swapping-of-columns-allowed0243/1) | Hard | 27 Aug 2026 | 11:18 pm |
+| 67 | [Minimum Cost Selection](./GeeksForGeeks/Medium/Minimum%20Cost%20Selection) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/buying-vegetables0016/1) | Medium | 28 Aug 2026 | 10:27 pm |
