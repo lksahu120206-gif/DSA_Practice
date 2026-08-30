@@ -1,12 +1,12 @@
 {
-  "totalSolved": 68,
-  "currentStreak": 5,
+  "totalSolved": 69,
+  "currentStreak": 6,
   "maxStreak": 15,
-  "lastSyncDate": "2026-08-29",
+  "lastSyncDate": "2026-08-30",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 16,
-    "medium": 42,
+    "medium": 43,
     "hard": 9,
     "basic": 1
   },
@@ -78,7 +78,8 @@
     "GeeksForGeeks_Negative_Weight_Cycle": true,
     "GeeksForGeeks_Largest_Rectangle_with_Column_Swaps": true,
     "GeeksForGeeks_Minimum_Cost_Selection": true,
-    "GeeksForGeeks_Count_Subsequences_Divisible_by_n": true
+    "GeeksForGeeks_Count_Subsequences_Divisible_by_n": true,
+    "GeeksForGeeks_Marks_from_Ranks": true
   },
   "activityHistory": {
     "2026-07-05": 2,
@@ -103,9 +104,10 @@
     "2026-08-26": 2,
     "2026-08-27": 1,
     "2026-08-28": 1,
-    "2026-08-29": 1
+    "2026-08-29": 1,
+    "2026-08-30": 1
   },
   "todayProblems": [
-    "Count Subsequences Divisible by n"
+    "Marks from Ranks"
   ]
 }
