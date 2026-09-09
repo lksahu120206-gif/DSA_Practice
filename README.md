@@ -70,3 +70,4 @@
 | 68 | [Count Subsequences Divisible by n](./GeeksForGeeks/Medium/Count%20Subsequences%20Divisible%20by%20n) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/number-of-subsequences-in-a-string-divisible-by-n5947/1) | Medium | 29 Aug 2026 | 10:11 pm |
 | 69 | [Marks from Ranks](./GeeksForGeeks/Medium/Marks%20from%20Ranks) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/find-marks-from-ranks/1) | Medium | 30 Aug 2026 | 04:46 pm |
 | 70 | [Word in Grid - All Occurrences](./GeeksForGeeks/Medium/Word%20in%20Grid%20-%20All%20Occurrences) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/find-the-string-in-grid0111/1) | Medium | 08 Sept 2026 | 11:42 pm |
+| 71 | [Max Digit Sum Number in 1 to n](./GeeksForGeeks/Easy/Max%20Digit%20Sum%20Number%20in%201%20to%20n) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/biggest-integer-having-maximum-digit-sum1704/1) | Easy | 09 Sept 2026 | 08:14 pm |
