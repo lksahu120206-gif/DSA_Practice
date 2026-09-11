@@ -72,3 +72,4 @@
 | 70 | [Word in Grid - All Occurrences](./GeeksForGeeks/Medium/Word%20in%20Grid%20-%20All%20Occurrences) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/find-the-string-in-grid0111/1) | Medium | 08 Sept 2026 | 11:42 pm |
 | 71 | [Max Digit Sum Number in 1 to n](./GeeksForGeeks/Easy/Max%20Digit%20Sum%20Number%20in%201%20to%20n) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/biggest-integer-having-maximum-digit-sum1704/1) | Easy | 09 Sept 2026 | 08:14 pm |
 | 72 | [Pairs with Given GCD and LCM](./GeeksForGeeks/Easy/Pairs%20with%20Given%20GCD%20and%20LCM) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/possible-pairs1550/1) | Easy | 10 Sept 2026 | 11:43 am |
+| 73 | [Values with Equal Array Remainders](./GeeksForGeeks/Easy/Values%20with%20Equal%20Array%20Remainders) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/k-modulus-array-element0255/1) | Easy | 11 Sept 2026 | 10:26 am |
