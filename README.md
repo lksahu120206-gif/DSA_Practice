@@ -74,3 +74,4 @@
 | 72 | [Pairs with Given GCD and LCM](./GeeksForGeeks/Easy/Pairs%20with%20Given%20GCD%20and%20LCM) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/possible-pairs1550/1) | Easy | 10 Sept 2026 | 11:43 am |
 | 73 | [Values with Equal Array Remainders](./GeeksForGeeks/Easy/Values%20with%20Equal%20Array%20Remainders) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/k-modulus-array-element0255/1) | Easy | 11 Sept 2026 | 10:26 am |
 | 74 | [Max Product Subsequence of Size K](./GeeksForGeeks/Medium/Max%20Product%20Subsequence%20of%20Size%20K) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/maximum-product4633/1) | Medium | 12 Sept 2026 | 08:07 pm |
+| 75 | [Party in Town](./GeeksForGeeks/Medium/Party%20in%20Town) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/party-in-town3951/1) | Medium | 13 Sept 2026 | 08:25 pm |
