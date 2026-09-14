@@ -1,12 +1,12 @@
 {
-  "totalSolved": 75,
-  "currentStreak": 6,
+  "totalSolved": 76,
+  "currentStreak": 7,
   "maxStreak": 15,
-  "lastSyncDate": "2026-09-13",
+  "lastSyncDate": "2026-09-14",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 19,
-    "medium": 46,
+    "medium": 47,
     "hard": 9,
     "basic": 1
   },
@@ -85,7 +85,8 @@
     "GeeksForGeeks_Pairs_with_Given_GCD_and_LCM": true,
     "GeeksForGeeks_Values_with_Equal_Array_Remainders": true,
     "GeeksForGeeks_Max_Product_Subsequence_of_Size_K": true,
-    "GeeksForGeeks_Party_in_Town": true
+    "GeeksForGeeks_Party_in_Town": true,
+    "GeeksForGeeks_Shortest_Safe_Route_in_Grid": true
   },
   "activityHistory": {
     "2026-07-05": 2,
@@ -117,9 +118,10 @@
     "2026-09-10": 1,
     "2026-09-11": 1,
     "2026-09-12": 1,
-    "2026-09-13": 1
+    "2026-09-13": 1,
+    "2026-09-14": 1
   },
   "todayProblems": [
-    "Party in Town"
+    "Shortest Safe Route in Grid"
   ]
 }
